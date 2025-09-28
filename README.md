@@ -3,13 +3,14 @@ Khana Khazana is a simple and responsive food delivery website made using HTML a
 
 🔹 Features
 
-Easy-to-use layout
-Food categories and menu section
-Works on both mobile and desktop
+Easy-to-use layout,
+Food categories and menu section,
+Works on both mobile and desktop,
 Simple and clean design
 
 🛠️ Built With
-HTML5
+
+HTML5,
 CSS3
 
 📌 About
